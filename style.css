@@ -1,0 +1,54 @@
+#topHeader{
+    background-color:ghostwhite;
+    border: 1px solid #ebebeb;
+}
+#topHeader a{
+    font-weight: 600;
+    font-size: 0.89rem;
+    color: rgb(22, 40, 99);
+    text-decoration: none;
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+/* START : Footer */
+.footer{
+    background-color: #34495e;
+
+}
+.logo{
+   text-decoration: none;
+   color: white;
+   font-size: 2rem;
+   font-weight: 600;
+}
+.top-footer p{
+    color: white;
+    font-weight: 600;
+}
+.top-footer a{
+    color: white;
+    text-decoration: none;
+}
+.f-icon{
+    color: white;
+}
+.f-icon:hover{
+    color: #212529;
+}
+.top-footer h3{
+    color: white;
+}
+.bottom-footer{
+    background-color: #212529;
+}
+.bottom-footer p{
+    color: white;
+}
